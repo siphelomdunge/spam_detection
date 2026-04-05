@@ -1,4 +1,5 @@
 Overview
+
 This project is a custom-built machine learning model designed to classify text messages or emails as either "spam" or "ham" (normal). Instead of relying entirely on pre-built high-level machine learning libraries, this project implements a Neural Network from scratch to demonstrate a deep understanding of natural language processing (NLP) and forward/backward propagation algorithms.
 
 Project Workflow
